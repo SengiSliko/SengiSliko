@@ -1,6 +1,6 @@
 # Hi 👋, I'm Risenga Sono
 
-**Junior Full-Stack Developer | Java & C# (.NET)**
+** Full-Stack Developer | Java,C# (.NET) & AngularJS**
 
 ---
 
